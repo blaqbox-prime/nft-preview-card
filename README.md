@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://blaqbox-prime.github.io/nft-preview-card/)
+- Solution URL: [https://github.com/blaqbox-prime/nft-preview-card](https://github.com/blaqbox-prime/nft-preview-card)
+- Live Site URL: [https://blaqbox-prime.github.io/nft-preview-card/](https://blaqbox-prime.github.io/nft-preview-card/)
 
 ## My process
 
@@ -52,6 +52,6 @@ One thing that definitely needs work in future projects is CSS Grid. I've shied 
 ## Author
 
 - Instagram - [@ig_blaqbox.dev](https://www.instagram.com/ig_blaqbox.dev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/blaqbox-prime)
+- Frontend Mentor - [@blaqbox-prime](https://www.frontendmentor.io/profile/blaqbox-prime)
 - github - [@blaqbox-prime](https://www.github.com/blaqbox-prime)
 
